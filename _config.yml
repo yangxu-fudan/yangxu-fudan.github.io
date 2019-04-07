@@ -1,7 +1,7 @@
 title:            Yang Xu - Fudan University
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              yangxu.info
+url:              /
 #http://localhost:5000
 #https://jponttuset.github.io
 disqus_shortname: yangxu-fudan
