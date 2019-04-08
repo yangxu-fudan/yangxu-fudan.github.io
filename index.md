@@ -10,7 +10,7 @@ image:
 I am a Professor with the school of Computer Science at Fudan University.
 
 <br />
-From 2007 to 2019, I was with the Department of Electrical and Computer Engineering, New York University Tandon School of Engineering, where he was a Research Associate Professor since 2013. I have published about 70 journal and conference papers and holds more than 10 U.S. and international granted patents on various aspects of networking and computing. 
+From 2007 to 2019, I was with the Department of Electrical and Computer Engineering, New York University Tandon School of Engineering. I have published about 70 journal and conference papers and holds more than 10 U.S. and international granted patents on various aspects of networking and computing. 
 
 
 <br />
