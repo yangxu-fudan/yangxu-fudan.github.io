@@ -7,7 +7,7 @@ image:
   feature: trees.jpg
 ---
 
- <p style="color:red"> <i> I am looking for self-motivated students to work with me at Fudan University. Postdoc positions are also available in my group. Please send me an email with you CV if you are interested in joining my group. </i> </p>
+ <p style="color:red"> <i> I am looking for self-motivated students to work with me at Fudan University. Postdoc positions are also available. Please send me an email with you CV if you are interested in joining my group. </i> </p>
 
 <br />
 
