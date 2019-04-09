@@ -29,6 +29,8 @@ bing_verify:
 links:
 #  - title: Curriculum
 #    url: /cv/
+  - title: Home
+    url: /home2/
   - title: Publications
     url: /publications/
   - title: Patents
