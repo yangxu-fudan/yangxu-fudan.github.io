@@ -11,7 +11,7 @@ image:
 
 <br />
 
-I am the Yaoshihua Chair Professor in the School of Computer Science at Fudan University.
+I am the Yaoshihua Chair Professor with the School of Computer Science at Fudan University.
 
 <br />
 
