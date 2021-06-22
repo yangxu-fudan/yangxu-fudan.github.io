@@ -15,7 +15,7 @@ I am the Yaoshihua Chair Professor with the School of Computer Science at Fudan 
 
 <br />
 
-My research interests include software-defined networks, data center networks, distributed machine learning, edge computing, network function virtualization, and network security. I have published more than 80 journal and conference papers and holds more than 10 U.S. and international granted patents on various aspects of networking and computing. I served as a TPC member for many international conferences, as an Editor for the Journal of Network and Computer Applications (Elsevier), and as a Guest Editor for the IEEE Journal on Selected Areas in Communications–Special Series on Network Softwarization & Enablers and Wiley Security and Communication Networks Journal–Special Issue on Network Security and Management in SDN.
+My research interests include software-defined networks, data center networks, distributed machine learning, edge computing, network function virtualization, and network security. I have published more than 90 journal and conference papers and holds more than 10 U.S. and international granted patents on various aspects of networking and computing. I served as a TPC member for many international conferences, as an Editor for the Journal of Network and Computer Applications (Elsevier), and as a Guest Editor for the IEEE Journal on Selected Areas in Communications–Special Series on Network Softwarization & Enablers and Wiley Security and Communication Networks Journal–Special Issue on Network Security and Management in SDN.
 
 
 <br />
