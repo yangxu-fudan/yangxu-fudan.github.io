@@ -1,10 +1,3 @@
-layout: bio-cn
-permalink: /bio-cn/
-title: 中文介绍
-tags: [bio-cn]
-modified: 4-7-2019
-comments: false
----
 
 <b>徐扬</b>
 
