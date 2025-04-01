@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/77a107df-fcfd-4aa7-80e1-126e2314342d)---
 layout: bio-cn
 permalink: /bio-cn/
 title: 中文介绍
